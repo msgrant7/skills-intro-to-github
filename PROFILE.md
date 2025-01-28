@@ -1,2 +1,2 @@
 Welcome to my GitHub profile!    ( 1/28/2025 And then one day... )
-Location:  Main  ->  REPO: skills-intro-to-github  ->  BRANCH: my-first-branch
+Location:  REPO: 'skills-intro-to-github'  ->  MAIN Branch  ->  [sub-]BRANCH: 'my-first-branch'
